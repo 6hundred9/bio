@@ -4,19 +4,19 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 1078px;
+    height: 877px;
     font-family: 'sans-serif', sans-serif;
     color: #cad3f5;
-    padding: 38px;
+    padding: 31px;
 }
 
 main {
     background-color: #1e2030;
     padding: 2em;
     width: 515px;
-    height: 1001px;
+    height: 800px;
     margin: 0 auto;
-    border-radius: 20px;
+    border-radius: 1em;
     display: block;
     text-align: center;
     position: relative;
