@@ -13,5 +13,5 @@ function updateTime() {
     document.getElementById('localtime-text').textContent = timeString;
 }
 
-setInterval(updateTime, 1000);
-updateTime(); // Initial call to display time immediately
+updateTime();
+setInterval(updateTime, 500);
